@@ -31,6 +31,10 @@ cd movie-tv-tracking-app
 python "Film-Dizi Kayıt Uygulaması.py"
 ```
 
+## 📸 Screenshot
+
+![Application Screenshot](screenshot.png)
+
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
@@ -69,6 +73,10 @@ cd movie-tv-tracking-app
 ```bash
 python "Film-Dizi Kayıt Uygulaması.py"
 ```
+
+## 📸 Ekran Görüntüsü
+
+![Uygulama Ekran Görüntüsü](screenshot.png)
 
 ## 👥 Geliştiriciler
 
