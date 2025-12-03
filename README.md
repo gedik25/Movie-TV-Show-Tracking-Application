@@ -80,7 +80,8 @@ python "Film-Dizi Kayıt Uygulaması.py"
 
 ## 👥 Geliştiriciler
 
-- Grup 13
+- Muhammet Ali Gedik
+- Muhammed Zahid Demirel
 
 ## 📄 Lisans
 
